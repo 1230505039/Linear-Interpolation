@@ -60,9 +60,6 @@ Estimated function value at x=2: 1.500000
 ## 🤝 Contributing
 Feel free to fork this repo and submit pull requests! Suggestions and improvements are welcome. 🚀
 
-## 📜 License
-This project is **open-source** under the MIT License.
-
 ---
 **Author:** Umutcan Oğuz  
 **GitHub Repository:** [Linear-Interpolation](https://github.com/1230505039/Linear-Interpolation)
